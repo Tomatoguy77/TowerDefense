@@ -3,9 +3,8 @@ using System.Collections;
 
 public class AddResourceTest : MonoBehaviour
 {
-	
     public void AddResource()
     {
-        GameObject.Find("_ResourceScript").GetComponent<Resource>().resourceCounter += 200f;
+        GameObject.Find("_ResourceCountScript").GetComponent<ResourceCount>().resourceCounter += 200f;
     }
 }

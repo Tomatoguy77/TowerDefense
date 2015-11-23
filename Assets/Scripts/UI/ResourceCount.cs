@@ -2,10 +2,9 @@
 using System.Collections;
 using UnityEngine.UI;
 
-public class Resource : MonoBehaviour
+public class ResourceCount : MonoBehaviour
 {
-    [SerializeField]
-    private Text _resourceText;
+    [SerializeField] private Text _resourceText;
     public float resourceCounter;
 
     void Update()

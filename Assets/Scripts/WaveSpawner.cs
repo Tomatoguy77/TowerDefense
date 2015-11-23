@@ -4,8 +4,9 @@ using System.Collections.Generic;
 
 public class WaveSpawner : MonoBehaviour
 {
-    private int _waveLevel = 0;
+
     [SerializeField] private GameObject _orc;
+    private int _waveLevel = 0;
     private bool _waveActive = false;
     private List<GameObject> _enemies;
 
@@ -57,6 +58,7 @@ public class WaveSpawner : MonoBehaviour
     public void StartWave()
     {
         _waveActive = true;
+        GameObject.Find("_WaveCountScript").GetComponent<WaveCount>().waveCounter += 1;
         _waveLevel += 1;
     }
 
