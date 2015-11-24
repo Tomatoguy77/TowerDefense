@@ -1,0 +1,44 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+<ReturnNotificationEMail>  
+	<Shipper>    
+		<ShipperNumber>AX4613</ShipperNumber>
+		<Address>      
+		</Address>  
+	</Shipper>  
+	<ShipFrom>    
+		<CompanyName>stephanie</CompanyName>    
+		<AttentionName>osinga jansen</AttentionName>    
+		<Address>      
+			<AddressLine1>0ltman thomsenstraat 59</AddressLine1>      
+			<City>almere</City>      
+			<PostalCode>1318BN</PostalCode>      
+			<CountryCode>NL</CountryCode>    
+		</Address>  
+	</ShipFrom>  
+	<ShipTo>    
+		<CompanyName>WOGER TRADING INTERNATIONAL BV</CompanyName>    
+		<AttentionName>vidaXL retouren</AttentionName>
+		<Address>      
+			<AddressLine1>SMAKTERWEG 112</AddressLine1>      
+			<City>VENRAY</City>      
+			<PostalCode>5804AM</PostalCode>      
+			<CountryCode>NL</CountryCode>    
+		</Address>  
+	</ShipTo>  
+	<ReferenceNumber>
+		<Code>num1</Code>
+		<Value>60343206</Value>
+	</ReferenceNumber>
+	<ReferenceNumber>
+		<Code>num2</Code>
+		<Value>3110675719/4506454</Value>
+	</ReferenceNumber>
+	<Description>Returned part</Description>  
+	<PackageWeight>    
+		<UnitOfMeasurement>      
+			<Code>KGS</Code>    
+		</UnitOfMeasurement>    
+		<Weight>1,0</Weight>  
+	</PackageWeight>  
+	<TrackingNumber>1ZAX46139197590795</TrackingNumber>
+</ReturnNotificationEMail>
