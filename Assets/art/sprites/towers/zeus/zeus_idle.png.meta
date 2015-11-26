@@ -1,0 +1,584 @@
+fileFormatVersion: 2
+guid: b23badbd8243b77409a2598c6d13986f
+timeCreated: 1448544102
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: zeus_idle_0
+    21300002: zeus_idle_1
+    21300004: zeus_idle_2
+    21300006: zeus_idle_3
+    21300008: zeus_idle_4
+    21300010: zeus_idle_5
+    21300012: zeus_idle_6
+    21300014: zeus_idle_7
+    21300016: zeus_idle_8
+    21300018: zeus_idle_9
+    21300020: zeus_idle_10
+    21300022: zeus_idle_11
+    21300024: zeus_idle_12
+    21300026: zeus_idle_13
+    21300028: zeus_idle_14
+    21300030: zeus_idle_15
+    21300032: zeus_idle_16
+    21300034: zeus_idle_17
+    21300036: zeus_idle_18
+    21300038: zeus_idle_19
+    21300040: zeus_idle_20
+    21300042: zeus_idle_21
+    21300044: zeus_idle_22
+    21300046: zeus_idle_23
+    21300048: zeus_idle_24
+    21300050: zeus_idle_25
+    21300052: zeus_idle_26
+    21300054: zeus_idle_27
+    21300056: zeus_idle_28
+    21300058: zeus_idle_29
+    21300060: zeus_idle_30
+    21300062: zeus_idle_31
+    21300064: zeus_idle_32
+    21300066: zeus_idle_33
+    21300068: zeus_idle_34
+    21300070: zeus_idle_35
+    21300072: zeus_idle_36
+    21300074: zeus_idle_37
+    21300076: zeus_idle_38
+    21300078: zeus_idle_39
+    21300080: zeus_idle_40
+    21300082: zeus_idle_41
+    21300084: zeus_idle_42
+    21300086: zeus_idle_43
+    21300088: zeus_idle_44
+    21300090: zeus_idle_45
+    21300092: zeus_idle_46
+    21300094: zeus_idle_47
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: zeus_idle_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1797
+        width: 145
+        height: 240
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zeus_idle_1
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 1797
+        width: 145
+        height: 240
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zeus_idle_2
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 1797
+        width: 145
+        height: 241
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zeus_idle_3
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 1797
+        width: 145
+        height: 241
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zeus_idle_4
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 1797
+        width: 145
+        height: 241
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zeus_idle_5
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 1797
+        width: 145
+        height: 242
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zeus_idle_6
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 1797
+        width: 145
+        height: 242
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zeus_idle_7
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 1797
+        width: 145
+        height: 242
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zeus_idle_8
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 1797
+        width: 145
+        height: 242
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zeus_idle_9
+      rect:
+        serializedVersion: 2
+        x: 1755
+        y: 1797
+        width: 145
+        height: 243
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zeus_idle_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1496
+        width: 145
+        height: 243
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zeus_idle_11
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 1496
+        width: 145
+        height: 243
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zeus_idle_12
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 1496
+        width: 145
+        height: 243
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zeus_idle_13
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 1496
+        width: 145
+        height: 243
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zeus_idle_14
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 1496
+        width: 145
+        height: 244
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zeus_idle_15
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 1496
+        width: 145
+        height: 244
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zeus_idle_16
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 1496
+        width: 145
+        height: 244
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zeus_idle_17
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 1496
+        width: 145
+        height: 244
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zeus_idle_18
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 1496
+        width: 145
+        height: 244
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zeus_idle_19
+      rect:
+        serializedVersion: 2
+        x: 1755
+        y: 1496
+        width: 145
+        height: 244
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zeus_idle_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1195
+        width: 145
+        height: 243
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zeus_idle_21
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 1195
+        width: 145
+        height: 243
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zeus_idle_22
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 1195
+        width: 145
+        height: 243
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zeus_idle_23
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 1195
+        width: 145
+        height: 243
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zeus_idle_24
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 1195
+        width: 145
+        height: 242
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zeus_idle_25
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 1195
+        width: 145
+        height: 242
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zeus_idle_26
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 1195
+        width: 145
+        height: 242
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zeus_idle_27
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 1195
+        width: 145
+        height: 241
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zeus_idle_28
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 1195
+        width: 145
+        height: 241
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zeus_idle_29
+      rect:
+        serializedVersion: 2
+        x: 1755
+        y: 1195
+        width: 145
+        height: 241
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zeus_idle_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 894
+        width: 145
+        height: 241
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zeus_idle_31
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 894
+        width: 145
+        height: 240
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zeus_idle_32
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 894
+        width: 145
+        height: 240
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zeus_idle_33
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 894
+        width: 145
+        height: 240
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zeus_idle_34
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 894
+        width: 145
+        height: 240
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zeus_idle_35
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 894
+        width: 145
+        height: 240
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zeus_idle_36
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 894
+        width: 145
+        height: 240
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zeus_idle_37
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 894
+        width: 145
+        height: 240
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zeus_idle_38
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 894
+        width: 145
+        height: 240
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zeus_idle_39
+      rect:
+        serializedVersion: 2
+        x: 1755
+        y: 894
+        width: 145
+        height: 240
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zeus_idle_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 593
+        width: 145
+        height: 240
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zeus_idle_41
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 593
+        width: 145
+        height: 240
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zeus_idle_42
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 593
+        width: 145
+        height: 240
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zeus_idle_43
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 593
+        width: 145
+        height: 240
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zeus_idle_44
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 593
+        width: 145
+        height: 240
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zeus_idle_45
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 593
+        width: 145
+        height: 240
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zeus_idle_46
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 593
+        width: 145
+        height: 240
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zeus_idle_47
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 593
+        width: 145
+        height: 240
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

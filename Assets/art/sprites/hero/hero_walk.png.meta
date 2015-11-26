@@ -1,0 +1,419 @@
+fileFormatVersion: 2
+guid: 752b2cc6ff3ade247b06b1ba53bfd79e
+timeCreated: 1448476478
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: hero_walk_0
+    21300002: hero_walk_1
+    21300004: hero_walk_2
+    21300006: hero_walk_3
+    21300008: hero_walk_4
+    21300010: hero_walk_5
+    21300012: hero_walk_6
+    21300014: hero_walk_7
+    21300016: hero_walk_8
+    21300018: hero_walk_9
+    21300020: hero_walk_10
+    21300022: hero_walk_11
+    21300024: hero_walk_12
+    21300026: hero_walk_13
+    21300028: hero_walk_14
+    21300030: hero_walk_15
+    21300032: hero_walk_16
+    21300034: hero_walk_17
+    21300036: hero_walk_18
+    21300038: hero_walk_19
+    21300040: hero_walk_20
+    21300042: hero_walk_21
+    21300044: hero_walk_22
+    21300046: hero_walk_23
+    21300048: hero_walk_24
+    21300050: hero_walk_25
+    21300052: hero_walk_26
+    21300054: hero_walk_27
+    21300056: hero_walk_28
+    21300058: hero_walk_29
+    21300060: hero_walk_30
+    21300062: hero_walk_31
+    21300064: hero_walk_32
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: hero_walk_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 1780
+        width: 204
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_walk_1
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 1779
+        width: 201
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_walk_2
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 1778
+        width: 198
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_walk_3
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 1777
+        width: 197
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_walk_4
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 1778
+        width: 194
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_walk_5
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 1779
+        width: 191
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_walk_6
+      rect:
+        serializedVersion: 2
+        x: 1531
+        y: 1780
+        width: 189
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_walk_7
+      rect:
+        serializedVersion: 2
+        x: 1784
+        y: 1783
+        width: 186
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_walk_8
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 1508
+        width: 180
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_walk_9
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 1507
+        width: 178
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_walk_10
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 1509
+        width: 181
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_walk_11
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 1511
+        width: 186
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_walk_12
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 1511
+        width: 194
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_walk_13
+      rect:
+        serializedVersion: 2
+        x: 1294
+        y: 1511
+        width: 201
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_walk_14
+      rect:
+        serializedVersion: 2
+        x: 1542
+        y: 1510
+        width: 209
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_walk_15
+      rect:
+        serializedVersion: 2
+        x: 1795
+        y: 1510
+        width: 206
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_walk_16
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 1238
+        width: 203
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_walk_17
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 1238
+        width: 201
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_walk_18
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 1237
+        width: 200
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_walk_19
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 1238
+        width: 198
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_walk_20
+      rect:
+        serializedVersion: 2
+        x: 1046
+        y: 1238
+        width: 199
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_walk_21
+      rect:
+        serializedVersion: 2
+        x: 1297
+        y: 1238
+        width: 198
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_walk_22
+      rect:
+        serializedVersion: 2
+        x: 1549
+        y: 1239
+        width: 196
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_walk_23
+      rect:
+        serializedVersion: 2
+        x: 1799
+        y: 1240
+        width: 197
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_walk_24
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 968
+        width: 196
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_walk_25
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 969
+        width: 196
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_walk_26
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 967
+        width: 194
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_walk_27
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 967
+        width: 193
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_walk_28
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 967
+        width: 193
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_walk_29
+      rect:
+        serializedVersion: 2
+        x: 1288
+        y: 967
+        width: 196
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_walk_30
+      rect:
+        serializedVersion: 2
+        x: 1534
+        y: 966
+        width: 198
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_walk_31
+      rect:
+        serializedVersion: 2
+        x: 1780
+        y: 966
+        width: 200
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_walk_32
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 693
+        width: 202
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
