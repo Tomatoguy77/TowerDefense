@@ -1,0 +1,320 @@
+fileFormatVersion: 2
+guid: 30587eec9f539374f8fd2ef62db2888f
+timeCreated: 1448459708
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: harpy_death_0
+    21300002: harpy_death_1
+    21300004: harpy_death_2
+    21300006: harpy_death_3
+    21300008: harpy_death_4
+    21300010: harpy_death_5
+    21300012: harpy_death_6
+    21300014: harpy_death_7
+    21300016: harpy_death_8
+    21300018: harpy_death_9
+    21300020: harpy_death_10
+    21300022: harpy_death_11
+    21300024: harpy_death_12
+    21300026: harpy_death_13
+    21300028: harpy_death_14
+    21300030: harpy_death_15
+    21300032: harpy_death_16
+    21300034: harpy_death_17
+    21300036: harpy_death_18
+    21300038: harpy_death_19
+    21300040: harpy_death_20
+    21300042: harpy_death_21
+    21300044: harpy_death_22
+    21300046: harpy_death_23
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: harpy_death_0
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 1826
+        width: 191
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: harpy_death_1
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 1826
+        width: 188
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: harpy_death_2
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 1826
+        width: 185
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: harpy_death_3
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 1570
+        width: 181
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: harpy_death_4
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 1571
+        width: 177
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: harpy_death_5
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 1572
+        width: 177
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: harpy_death_6
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 1317
+        width: 184
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: harpy_death_7
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 1319
+        width: 192
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: harpy_death_8
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 1330
+        width: 195
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: harpy_death_9
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 1069
+        width: 196
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: harpy_death_10
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 1062
+        width: 195
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: harpy_death_11
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 1056
+        width: 192
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: harpy_death_12
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 794
+        width: 188
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: harpy_death_13
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 790
+        width: 180
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: harpy_death_14
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 789
+        width: 175
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: harpy_death_15
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 536
+        width: 187
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: harpy_death_16
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 541
+        width: 199
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: harpy_death_17
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 551
+        width: 208
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: harpy_death_18
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 317
+        width: 214
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: harpy_death_19
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 318
+        width: 227
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: harpy_death_20
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 320
+        width: 236
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: harpy_death_21
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 65
+        width: 245
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: harpy_death_22
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 56
+        width: 252
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: harpy_death_23
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 57
+        width: 252
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
