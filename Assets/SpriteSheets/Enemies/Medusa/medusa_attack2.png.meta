@@ -1,9 +1,48 @@
 fileFormatVersion: 2
 guid: 083a637053c0ec74f8e91206d6519e3f
-timeCreated: 1448455878
+timeCreated: 1448623840
 licenseType: Free
 TextureImporter:
-  fileIDToRecycleName: {}
+  fileIDToRecycleName:
+    21300000: medusa_attack2_0
+    21300002: medusa_attack2_1
+    21300004: medusa_attack2_2
+    21300006: medusa_attack2_3
+    21300008: medusa_attack2_4
+    21300010: medusa_attack2_5
+    21300012: medusa_attack2_6
+    21300014: medusa_attack2_7
+    21300016: medusa_attack2_8
+    21300018: medusa_attack2_9
+    21300020: medusa_attack2_10
+    21300022: medusa_attack2_11
+    21300024: medusa_attack2_12
+    21300026: medusa_attack2_13
+    21300028: medusa_attack2_14
+    21300030: medusa_attack2_15
+    21300032: medusa_attack2_16
+    21300034: medusa_attack2_17
+    21300036: medusa_attack2_18
+    21300038: medusa_attack2_19
+    21300040: medusa_attack2_20
+    21300042: medusa_attack2_21
+    21300044: medusa_attack2_22
+    21300046: medusa_attack2_23
+    21300048: medusa_attack2_24
+    21300050: medusa_attack2_25
+    21300052: medusa_attack2_26
+    21300054: medusa_attack2_27
+    21300056: medusa_attack2_28
+    21300058: medusa_attack2_29
+    21300060: medusa_attack2_30
+    21300062: medusa_attack2_31
+    21300064: medusa_attack2_32
+    21300066: medusa_attack2_33
+    21300068: medusa_attack2_34
+    21300070: medusa_attack2_35
+    21300072: medusa_attack2_36
+    21300074: medusa_attack2_37
+    21300076: medusa_attack2_38
   serializedVersion: 2
   mipmaps:
     mipMapMode: 0
@@ -30,7 +69,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     filterMode: -1
-    aniso: -1
+    aniso: 16
     mipBias: -1
     wrapMode: 1
   nPOTScale: 0
@@ -38,7 +77,7 @@ TextureImporter:
   rGBM: 0
   compressionQuality: 50
   allowsAlphaSplitting: 0
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -49,7 +88,397 @@ TextureImporter:
   textureType: 8
   buildTargetSettings: []
   spriteSheet:
-    sprites: []
+    sprites:
+    - name: medusa_attack2_0
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 3821
+        width: 286
+        height: 174
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: medusa_attack2_1
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 3821
+        width: 296
+        height: 174
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: medusa_attack2_2
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 3821
+        width: 291
+        height: 174
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: medusa_attack2_3
+      rect:
+        serializedVersion: 2
+        x: 1077
+        y: 3823
+        width: 292
+        height: 174
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: medusa_attack2_4
+      rect:
+        serializedVersion: 2
+        x: 1417
+        y: 3823
+        width: 294
+        height: 174
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: medusa_attack2_5
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 3527
+        width: 296
+        height: 174
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: medusa_attack2_6
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 3527
+        width: 298
+        height: 177
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: medusa_attack2_7
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 3528
+        width: 300
+        height: 175
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: medusa_attack2_8
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 3527
+        width: 280
+        height: 188
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: medusa_attack2_9
+      rect:
+        serializedVersion: 2
+        x: 1455
+        y: 3527
+        width: 256
+        height: 208
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: medusa_attack2_10
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 3231
+        width: 233
+        height: 224
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: medusa_attack2_11
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 3225
+        width: 208
+        height: 244
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: medusa_attack2_12
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 3227
+        width: 186
+        height: 254
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: medusa_attack2_13
+      rect:
+        serializedVersion: 2
+        x: 1201
+        y: 3232
+        width: 168
+        height: 257
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: medusa_attack2_14
+      rect:
+        serializedVersion: 2
+        x: 1528
+        y: 3232
+        width: 184
+        height: 261
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: medusa_attack2_15
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 2935
+        width: 196
+        height: 262
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: medusa_attack2_16
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 2935
+        width: 213
+        height: 262
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: medusa_attack2_17
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 2935
+        width: 224
+        height: 258
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: medusa_attack2_18
+      rect:
+        serializedVersion: 2
+        x: 1195
+        y: 2929
+        width: 174
+        height: 256
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: medusa_attack2_19
+      rect:
+        serializedVersion: 2
+        x: 1451
+        y: 2925
+        width: 260
+        height: 259
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: medusa_attack2_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2635
+        width: 343
+        height: 194
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: medusa_attack2_21
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 2632
+        width: 347
+        height: 181
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: medusa_attack2_22
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 2632
+        width: 344
+        height: 147
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: medusa_attack2_23
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 2629
+        width: 342
+        height: 140
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: medusa_attack2_24
+      rect:
+        serializedVersion: 2
+        x: 1375
+        y: 2635
+        width: 336
+        height: 141
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: medusa_attack2_25
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 2337
+        width: 332
+        height: 142
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: medusa_attack2_26
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 2336
+        width: 326
+        height: 147
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: medusa_attack2_27
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 2337
+        width: 320
+        height: 151
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: medusa_attack2_28
+      rect:
+        serializedVersion: 2
+        x: 1051
+        y: 2336
+        width: 316
+        height: 155
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: medusa_attack2_29
+      rect:
+        serializedVersion: 2
+        x: 1397
+        y: 2337
+        width: 312
+        height: 156
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: medusa_attack2_30
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 2041
+        width: 308
+        height: 158
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: medusa_attack2_31
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 2040
+        width: 306
+        height: 161
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: medusa_attack2_32
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 2040
+        width: 302
+        height: 163
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: medusa_attack2_33
+      rect:
+        serializedVersion: 2
+        x: 1069
+        y: 2041
+        width: 298
+        height: 164
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: medusa_attack2_34
+      rect:
+        serializedVersion: 2
+        x: 1413
+        y: 2041
+        width: 296
+        height: 166
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: medusa_attack2_35
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 1743
+        width: 292
+        height: 169
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: medusa_attack2_36
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 1743
+        width: 290
+        height: 170
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: medusa_attack2_37
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 1743
+        width: 289
+        height: 172
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: medusa_attack2_38
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 1743
+        width: 286
+        height: 172
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
   spritePackingTag: 
   userData: 
   assetBundleName: 

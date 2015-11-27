@@ -1,15 +1,25 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public class FollowWaypoint : MonoBehaviour
+public class FollowWaypoint : TempleCollision
 {
     private int _targetWaypoint = 0;
     private Transform _waypoints;
-    [SerializeField] private float movementSpeed = 10f;
+    private float _movementSpeed = 10f;
+    private int _choosePath;
     
 	void Start ()
     {
-        _waypoints = GameObject.Find("Waypoints").transform;
+        _choosePath = Random.Range(0, 2);
+        if (_choosePath == 1)
+        {
+            _waypoints = GameObject.Find("WaypointsUpPath").transform;
+        }
+
+        else
+        {
+            _waypoints = GameObject.Find("WaypointsDownPath").transform;
+        }
 	}
 	
 	void FixedUpdate ()
@@ -35,14 +45,13 @@ public class FollowWaypoint : MonoBehaviour
             else
             {
                 print("Eindpunt berijkt");
+                _movementSpeed = 0f;
             }
         }
 
         else
         {
-            GetComponent<Rigidbody2D>().AddForce(new Vector2(movementNormal.x, movementNormal.y) * movementSpeed);
+            GetComponent<Rigidbody2D>().AddForce(new Vector2(movementNormal.x, movementNormal.y) * _movementSpeed);
         }
-
-        transform.rotation = Quaternion.Euler(0, 0, targetAngle);
     }
 }

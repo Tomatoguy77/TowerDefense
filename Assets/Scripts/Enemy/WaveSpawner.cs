@@ -4,7 +4,8 @@ using System.Collections.Generic;
 
 public class WaveSpawner : MonoBehaviour
 {
-
+    [SerializeField] private GameObject _victory;
+    [SerializeField] private GameObject _pauseMenu;
     [SerializeField] private GameObject _medusa;
     [SerializeField] private GameObject _harpy;
     private int _waveLevel = 0;
@@ -44,8 +45,54 @@ public class WaveSpawner : MonoBehaviour
                     StartCoroutine("SpawnWave");
                     _waveActive = false;
                     break;
+                case 4:
+                    print("Wave 4 START");
+                    StartCoroutine("SpawnWave");
+                    _waveActive = false;
+                    break;
+                case 5:
+                    print("Wave 5 START");
+                    StartCoroutine("SpawnWave");
+                    _waveActive = false;
+                    break;
+                case 6:
+                    print("Wave 6 START");
+                    StartCoroutine("SpawnWave");
+                    _waveActive = false;
+                    break;
+                case 7:
+                    print("Wave 7 START");
+                    StartCoroutine("SpawnWave");
+                    _waveActive = false;
+                    break;
+                case 8:
+                    print("Wave 8 START");
+                    StartCoroutine("SpawnWave");
+                    _waveActive = false;
+                    break;
+                case 9:
+                    print("Wave 9 START");
+                    StartCoroutine("SpawnWave");
+                    _waveActive = false;
+                    break;
+                case 10:
+                    print("Wave 10 START");
+                    StartCoroutine("SpawnWave");
+                    _waveActive = false;
+                    break;
+                case 11:
+                    print("Victory");
+                    StartCoroutine("SpawnWave");
+                    _waveActive = false;
+                    break;
             }
         }
+
+        if (_enemies.Count <= 0 && _waveLevel == 10)
+        {
+            print("You Won!!!!!!!!!!!!!!!!!!!!!11");
+        }
+
     }
 
     IEnumerator SpawnWave()
@@ -53,12 +100,51 @@ public class WaveSpawner : MonoBehaviour
         switch (_waveLevel)
         {
             case 1:
-                _enemies.Add(_harpy);
+                //_enemies.Add(_harpy);
+                //_enemies.Add(_medusa);
                 break;
 
             case 2:
-                _enemies.Add(_harpy);
-                _enemies.Add(_harpy);
+            //    _enemies.Add(_medusa);
+              //  _enemies.Add(_harpy);
+                break;
+
+            case 3:
+          //      _enemies.Add(_medusa);
+                break;
+
+            case 4:
+        //        _enemies.Add(_harpy);
+                break;
+
+            case 5:
+      //          _enemies.Add(_medusa);
+                break;
+
+            case 6:
+    //            _enemies.Add(_harpy);
+                break;
+
+            case 7:
+  //              _enemies.Add(_medusa);
+                break;
+
+            case 8:
+//                _enemies.Add(_harpy);
+                break;
+
+            case 9:
+                //_enemies.Add(_medusa);
+                break;
+
+            case 10:
+                //_enemies.Add(_harpy);
+                break;
+
+            case 11:
+                _pauseMenu.SetActive(false);
+                _victory.SetActive(true);
+                Time.timeScale = 0;
                 break;
         }
 

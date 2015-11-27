@@ -1,6 +1,6 @@
 fileFormatVersion: 2
 guid: 30587eec9f539374f8fd2ef62db2888f
-timeCreated: 1448459708
+timeCreated: 1448627377
 licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
@@ -81,8 +81,8 @@ TextureImporter:
         y: 1826
         width: 191
         height: 222
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: harpy_death_1
       rect:
@@ -91,8 +91,8 @@ TextureImporter:
         y: 1826
         width: 188
         height: 221
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: harpy_death_2
       rect:
@@ -101,8 +101,8 @@ TextureImporter:
         y: 1826
         width: 185
         height: 221
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: harpy_death_3
       rect:
@@ -111,8 +111,8 @@ TextureImporter:
         y: 1570
         width: 181
         height: 221
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: harpy_death_4
       rect:
@@ -121,8 +121,8 @@ TextureImporter:
         y: 1571
         width: 177
         height: 220
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: harpy_death_5
       rect:
@@ -131,8 +131,8 @@ TextureImporter:
         y: 1572
         width: 177
         height: 218
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: harpy_death_6
       rect:
@@ -141,8 +141,8 @@ TextureImporter:
         y: 1317
         width: 184
         height: 217
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: harpy_death_7
       rect:
@@ -151,8 +151,8 @@ TextureImporter:
         y: 1319
         width: 192
         height: 214
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: harpy_death_8
       rect:
@@ -161,8 +161,8 @@ TextureImporter:
         y: 1330
         width: 195
         height: 202
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: harpy_death_9
       rect:
@@ -171,8 +171,8 @@ TextureImporter:
         y: 1069
         width: 196
         height: 207
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: harpy_death_10
       rect:
@@ -181,8 +181,8 @@ TextureImporter:
         y: 1062
         width: 195
         height: 212
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: harpy_death_11
       rect:
@@ -191,8 +191,8 @@ TextureImporter:
         y: 1056
         width: 192
         height: 216
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: harpy_death_12
       rect:
@@ -201,8 +201,8 @@ TextureImporter:
         y: 794
         width: 188
         height: 222
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: harpy_death_13
       rect:
@@ -211,8 +211,8 @@ TextureImporter:
         y: 790
         width: 180
         height: 224
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: harpy_death_14
       rect:
@@ -221,8 +221,8 @@ TextureImporter:
         y: 789
         width: 175
         height: 222
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: harpy_death_15
       rect:
@@ -231,8 +231,8 @@ TextureImporter:
         y: 536
         width: 187
         height: 214
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: harpy_death_16
       rect:
@@ -241,8 +241,8 @@ TextureImporter:
         y: 541
         width: 199
         height: 207
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: harpy_death_17
       rect:
@@ -251,8 +251,8 @@ TextureImporter:
         y: 551
         width: 208
         height: 188
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: harpy_death_18
       rect:
@@ -261,8 +261,8 @@ TextureImporter:
         y: 317
         width: 214
         height: 157
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: harpy_death_19
       rect:
@@ -271,8 +271,8 @@ TextureImporter:
         y: 318
         width: 227
         height: 140
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: harpy_death_20
       rect:
@@ -281,8 +281,8 @@ TextureImporter:
         y: 320
         width: 236
         height: 128
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: harpy_death_21
       rect:
@@ -291,8 +291,8 @@ TextureImporter:
         y: 65
         width: 245
         height: 104
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: harpy_death_22
       rect:
@@ -301,8 +301,8 @@ TextureImporter:
         y: 56
         width: 252
         height: 97
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: harpy_death_23
       rect:
@@ -311,8 +311,8 @@ TextureImporter:
         y: 57
         width: 252
         height: 97
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
   spritePackingTag: 
   userData: 

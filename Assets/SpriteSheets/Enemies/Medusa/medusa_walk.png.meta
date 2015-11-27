@@ -1,6 +1,6 @@
 fileFormatVersion: 2
 guid: e7efb7cbce26fa14e95410839ba28098
-timeCreated: 1448456159
+timeCreated: 1448623978
 licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
@@ -97,8 +97,8 @@ TextureImporter:
         y: 1875
         width: 284
         height: 171
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: medusa_walk_1
       rect:
@@ -107,8 +107,8 @@ TextureImporter:
         y: 1876
         width: 281
         height: 172
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: medusa_walk_2
       rect:
@@ -117,8 +117,8 @@ TextureImporter:
         y: 1876
         width: 277
         height: 170
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: medusa_walk_3
       rect:
@@ -127,8 +127,8 @@ TextureImporter:
         y: 1877
         width: 273
         height: 169
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: medusa_walk_4
       rect:
@@ -137,8 +137,8 @@ TextureImporter:
         y: 1878
         width: 269
         height: 168
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: medusa_walk_5
       rect:
@@ -147,8 +147,8 @@ TextureImporter:
         y: 1878
         width: 267
         height: 168
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: medusa_walk_6
       rect:
@@ -157,8 +157,8 @@ TextureImporter:
         y: 1703
         width: 263
         height: 168
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: medusa_walk_7
       rect:
@@ -167,8 +167,8 @@ TextureImporter:
         y: 1703
         width: 260
         height: 169
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: medusa_walk_8
       rect:
@@ -177,8 +177,8 @@ TextureImporter:
         y: 1704
         width: 258
         height: 168
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: medusa_walk_9
       rect:
@@ -187,8 +187,8 @@ TextureImporter:
         y: 1704
         width: 255
         height: 168
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: medusa_walk_10
       rect:
@@ -197,8 +197,8 @@ TextureImporter:
         y: 1705
         width: 253
         height: 167
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: medusa_walk_11
       rect:
@@ -207,8 +207,8 @@ TextureImporter:
         y: 1705
         width: 252
         height: 167
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: medusa_walk_12
       rect:
@@ -217,8 +217,8 @@ TextureImporter:
         y: 1530
         width: 251
         height: 167
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: medusa_walk_13
       rect:
@@ -227,8 +227,8 @@ TextureImporter:
         y: 1530
         width: 251
         height: 167
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: medusa_walk_14
       rect:
@@ -237,8 +237,8 @@ TextureImporter:
         y: 1530
         width: 252
         height: 167
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: medusa_walk_15
       rect:
@@ -247,8 +247,8 @@ TextureImporter:
         y: 1531
         width: 252
         height: 166
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: medusa_walk_16
       rect:
@@ -257,8 +257,8 @@ TextureImporter:
         y: 1531
         width: 255
         height: 165
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: medusa_walk_17
       rect:
@@ -267,8 +267,8 @@ TextureImporter:
         y: 1531
         width: 259
         height: 165
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: medusa_walk_18
       rect:
@@ -277,8 +277,8 @@ TextureImporter:
         y: 1356
         width: 261
         height: 168
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: medusa_walk_19
       rect:
@@ -287,8 +287,8 @@ TextureImporter:
         y: 1356
         width: 263
         height: 165
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: medusa_walk_20
       rect:
@@ -297,8 +297,8 @@ TextureImporter:
         y: 1356
         width: 267
         height: 165
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: medusa_walk_21
       rect:
@@ -307,8 +307,8 @@ TextureImporter:
         y: 1356
         width: 269
         height: 165
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: medusa_walk_22
       rect:
@@ -317,8 +317,8 @@ TextureImporter:
         y: 1355
         width: 272
         height: 166
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: medusa_walk_23
       rect:
@@ -327,8 +327,8 @@ TextureImporter:
         y: 1355
         width: 275
         height: 166
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: medusa_walk_24
       rect:
@@ -337,8 +337,8 @@ TextureImporter:
         y: 1180
         width: 279
         height: 166
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: medusa_walk_25
       rect:
@@ -347,8 +347,8 @@ TextureImporter:
         y: 1180
         width: 281
         height: 165
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: medusa_walk_26
       rect:
@@ -357,8 +357,8 @@ TextureImporter:
         y: 1180
         width: 281
         height: 165
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: medusa_walk_27
       rect:
@@ -367,8 +367,8 @@ TextureImporter:
         y: 1180
         width: 281
         height: 165
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: medusa_walk_28
       rect:
@@ -377,8 +377,8 @@ TextureImporter:
         y: 1180
         width: 281
         height: 165
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: medusa_walk_29
       rect:
@@ -387,8 +387,8 @@ TextureImporter:
         y: 1179
         width: 282
         height: 166
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: medusa_walk_30
       rect:
@@ -397,8 +397,8 @@ TextureImporter:
         y: 1004
         width: 283
         height: 166
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: medusa_walk_31
       rect:
@@ -407,8 +407,8 @@ TextureImporter:
         y: 1004
         width: 283
         height: 167
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: medusa_walk_32
       rect:
@@ -417,8 +417,8 @@ TextureImporter:
         y: 1003
         width: 283
         height: 168
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: medusa_walk_33
       rect:
@@ -427,8 +427,8 @@ TextureImporter:
         y: 1003
         width: 282
         height: 168
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: medusa_walk_34
       rect:
@@ -437,8 +437,8 @@ TextureImporter:
         y: 1003
         width: 283
         height: 167
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: medusa_walk_35
       rect:
@@ -447,8 +447,8 @@ TextureImporter:
         y: 1003
         width: 283
         height: 168
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: medusa_walk_36
       rect:
@@ -457,8 +457,8 @@ TextureImporter:
         y: 827
         width: 283
         height: 169
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: medusa_walk_37
       rect:
@@ -467,8 +467,8 @@ TextureImporter:
         y: 827
         width: 283
         height: 168
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: medusa_walk_38
       rect:
@@ -477,8 +477,8 @@ TextureImporter:
         y: 826
         width: 283
         height: 169
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: medusa_walk_39
       rect:
@@ -487,8 +487,8 @@ TextureImporter:
         y: 826
         width: 283
         height: 170
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
   spritePackingTag: 
   userData: 

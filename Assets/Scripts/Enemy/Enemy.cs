@@ -1,10 +1,9 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public class Enemy : TempleCollision
+public class Enemy : FollowWaypoint
 {
     [SerializeField] private GameObject _healthBar;
-    [SerializeField] private GameObject _victory;
     public float health = 100;
     private bool _attacking = false;
     private Animator _animator;
@@ -24,8 +23,6 @@ public class Enemy : TempleCollision
 	
 	void Update ()
     {
-        transform.Translate(Vector2.left * Time.deltaTime);
-
         if (health == 50)
         {
             _healthBar.transform.localScale = new Vector3(0.9f, 3, 0);
