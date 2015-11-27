@@ -1,0 +1,375 @@
+fileFormatVersion: 2
+guid: 8156aedfa2aafb74ab23052a50fb156c
+timeCreated: 1448477937
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: hero_attack_animation_0
+    21300002: hero_attack_animation_1
+    21300004: hero_attack_animation_2
+    21300006: hero_attack_animation_3
+    21300008: hero_attack_animation_4
+    21300010: hero_attack_animation_5
+    21300012: hero_attack_animation_6
+    21300014: hero_attack_animation_7
+    21300016: hero_attack_animation_8
+    21300018: hero_attack_animation_9
+    21300020: hero_attack_animation_10
+    21300022: hero_attack_animation_11
+    21300024: hero_attack_animation_12
+    21300026: hero_attack_animation_13
+    21300028: hero_attack_animation_14
+    21300030: hero_attack_animation_15
+    21300032: hero_attack_animation_16
+    21300034: hero_attack_animation_17
+    21300036: hero_attack_animation_18
+    21300038: hero_attack_animation_19
+    21300040: hero_attack_animation_20
+    21300042: hero_attack_animation_21
+    21300044: hero_attack_animation_22
+    21300046: hero_attack_animation_23
+    21300048: hero_attack_animation_24
+    21300050: hero_attack_animation_25
+    21300052: hero_attack_animation_26
+    21300054: hero_attack_animation_27
+    21300056: hero_attack_animation_28
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: hero_attack_animation_0
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 1776
+        width: 198
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_attack_animation_1
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 1776
+        width: 197
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_attack_animation_2
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 1776
+        width: 202
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_attack_animation_3
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 1775
+        width: 207
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_attack_animation_4
+      rect:
+        serializedVersion: 2
+        x: 1268
+        y: 1775
+        width: 213
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_attack_animation_5
+      rect:
+        serializedVersion: 2
+        x: 1567
+        y: 1774
+        width: 210
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_attack_animation_6
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1492
+        width: 205
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_attack_animation_7
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 1492
+        width: 199
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_attack_animation_8
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 1491
+        width: 191
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_attack_animation_9
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 1491
+        width: 204
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_attack_animation_10
+      rect:
+        serializedVersion: 2
+        x: 1265
+        y: 1491
+        width: 213
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_attack_animation_11
+      rect:
+        serializedVersion: 2
+        x: 1499
+        y: 1491
+        width: 280
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_attack_animation_12
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 1208
+        width: 277
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_attack_animation_13
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 1208
+        width: 275
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_attack_animation_14
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 1208
+        width: 272
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_attack_animation_15
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 1209
+        width: 269
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_attack_animation_16
+      rect:
+        serializedVersion: 2
+        x: 1218
+        y: 1209
+        width: 265
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_attack_animation_17
+      rect:
+        serializedVersion: 2
+        x: 1520
+        y: 1209
+        width: 262
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_attack_animation_18
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 927
+        width: 256
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_attack_animation_19
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 928
+        width: 251
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_attack_animation_20
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 928
+        width: 245
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_attack_animation_21
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 928
+        width: 240
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_attack_animation_22
+      rect:
+        serializedVersion: 2
+        x: 1252
+        y: 928
+        width: 234
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_attack_animation_23
+      rect:
+        serializedVersion: 2
+        x: 1558
+        y: 929
+        width: 227
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_attack_animation_24
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 647
+        width: 220
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_attack_animation_25
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 647
+        width: 214
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_attack_animation_26
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 648
+        width: 207
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_attack_animation_27
+      rect:
+        serializedVersion: 2
+        x: 989
+        y: 648
+        width: 202
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_attack_animation_28
+      rect:
+        serializedVersion: 2
+        x: 1291
+        y: 648
+        width: 198
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

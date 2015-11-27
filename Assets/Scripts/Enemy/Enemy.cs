@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public class Enemy : FollowWaypoint
+public class Enemy : TempleCollision
 {
     [SerializeField] private GameObject _healthBar;
     public float health = 100;
@@ -11,7 +11,6 @@ public class Enemy : FollowWaypoint
     public override void TempleCollide(BaseTemple _BT)
     {
         base.TempleCollide(_BT);
-        print("Hit");
         _animator.SetBool("isAttacking", true);
         InvokeRepeating("AttackTemple", 0.9f, 1);
     }
@@ -38,13 +37,11 @@ public class Enemy : FollowWaypoint
 
     private void AttackTemple()
     {
-        print("Attack!");
         GameObject.Find("Temple").GetComponent<BaseTemple>().health -= 20f;
     }
 
     IEnumerator DestroyObject()
     {
-        //Moet not speed op 0 zetten.
         yield return new WaitForSeconds(0.9f);
         GameObject.Find("_ResourceCountScript").GetComponent<ResourceCount>().resourceCounter += 50f;
         Destroy(this.gameObject);

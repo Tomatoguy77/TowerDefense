@@ -40,7 +40,6 @@ public class Tower : MonoBehaviour
         //If the enemy within range has been found; instantiate a bullet.
         if (_closestEnemy != null)
         {
-            print("Closest found!");
             _animator.SetBool("isAttacking", true);
             ShootBullet();
         }
@@ -63,11 +62,4 @@ public class Tower : MonoBehaviour
         Gizmos.color = Color.red;
         Gizmos.DrawWireSphere(_towerPos, towerRange);
     }
-
-    /*
-    private void OnMouseDown()
-    {
-        //Activeer een Gameobject en geef die een script om towerRange te upgraden.
-    }
-    */
 }

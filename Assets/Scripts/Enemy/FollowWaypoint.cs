@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public class FollowWaypoint : TempleCollision
+public class FollowWaypoint : MonoBehaviour
 {
     private int _targetWaypoint = 0;
     private Transform _waypoints;
@@ -44,7 +44,6 @@ public class FollowWaypoint : TempleCollision
 
             else
             {
-                print("Eindpunt berijkt");
                 _movementSpeed = 0f;
             }
         }
