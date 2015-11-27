@@ -8,7 +8,6 @@ public class PlayerControl : MonoBehaviour {
     public Animator animatorPlayer;
     private bool _facingRight;
     public Vector3 move;
-    private PlayerAtack _Atack;
   
     
 

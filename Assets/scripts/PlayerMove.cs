@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 using System.Collections;
-// this using 
+// this using is to iclude the aStar package
 using Pathfinding;
 
 public class PlayerMove : MonoBehaviour

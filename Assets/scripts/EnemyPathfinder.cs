@@ -43,14 +43,14 @@ public class EnemyPathfinder : MonoBehaviour
         }
         if (currentWaypoint >= path.vectorPath.Count)
         {
-            Debug.Log("End Of Path Reached");
+      //      Debug.Log("End Of Path Reached");
             return;
         }
         //Direction to the next waypoint
         Vector2 dir = (path.vectorPath[currentWaypoint] - transform.position).normalized;
         dir *= speed * Time.deltaTime;
         _cont.Move(dir);
-        Debug.Log(dir);
+   //     Debug.Log(dir);
         //Check if we are close enough to the next waypoint
         //If we are, proceed to follow the next waypoint
         if (Vector2.Distance(transform.position, path.vectorPath[currentWaypoint]) < nextWaypointDistance)
