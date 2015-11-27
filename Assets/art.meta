@@ -1,7 +1,13 @@
 fileFormatVersion: 2
+<<<<<<< HEAD
 guid: 51993b7c0c3b158428ed8984bae5a2ea
 folderAsset: yes
 timeCreated: 1446640067
+=======
+guid: bdaa8ed684cd9a84282169f16789a3e1
+folderAsset: yes
+timeCreated: 1448647904
+>>>>>>> origin/armin
 licenseType: Free
 DefaultImporter:
   userData: 

@@ -7,6 +7,11 @@ public class ResourceCount : MonoBehaviour
     [SerializeField] private Text _resourceText;
     public float resourceCounter;
 
+    void Start()
+    {
+        resourceCounter += 400f;
+    }
+
     void Update()
     {
         SetResourceText();
@@ -14,6 +19,6 @@ public class ResourceCount : MonoBehaviour
 
     void SetResourceText()
     {
-        _resourceText.text = "Resource: " + resourceCounter.ToString();
+        _resourceText.text = resourceCounter.ToString();
     }
 }
