@@ -1,0 +1,716 @@
+fileFormatVersion: 2
+guid: a9f4e0c9f1e97d84baf6594534fb4625
+timeCreated: 1447935729
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: zeus_0
+    21300002: zeus_1
+    21300004: zeus_2
+    21300006: zeus_3
+    21300008: zeus_4
+    21300010: zeus_5
+    21300012: zeus_6
+    21300014: zeus_7
+    21300016: zeus_8
+    21300018: zeus_9
+    21300020: zeus_10
+    21300022: zeus_11
+    21300024: zeus_12
+    21300026: zeus_13
+    21300028: zeus_14
+    21300030: zeus_15
+    21300032: zeus_16
+    21300034: zeus_17
+    21300036: zeus_18
+    21300038: zeus_19
+    21300040: zeus_20
+    21300042: zeus_21
+    21300044: zeus_22
+    21300046: zeus_23
+    21300048: zeus_24
+    21300050: zeus_25
+    21300052: zeus_26
+    21300054: zeus_27
+    21300056: zeus_28
+    21300058: zeus_29
+    21300060: zeus_30
+    21300062: zeus_31
+    21300064: zeus_32
+    21300066: zeus_33
+    21300068: zeus_34
+    21300070: zeus_35
+    21300072: zeus_36
+    21300074: zeus_37
+    21300076: zeus_38
+    21300078: zeus_39
+    21300080: zeus_40
+    21300082: zeus_41
+    21300084: zeus_42
+    21300086: zeus_43
+    21300088: zeus_44
+    21300090: zeus_45
+    21300092: zeus_46
+    21300094: zeus_47
+    21300096: zeus_48
+    21300098: zeus_49
+    21300100: zeus_50
+    21300102: zeus_51
+    21300104: zeus_52
+    21300106: zeus_53
+    21300108: zeus_54
+    21300110: zeus_55
+    21300112: zeus_56
+    21300114: zeus_57
+    21300116: zeus_58
+    21300118: zeus_59
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: zeus_0
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 3760
+        width: 147
+        height: 245
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zeus_1
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 3760
+        width: 143
+        height: 243
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zeus_2
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 3760
+        width: 140
+        height: 241
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zeus_3
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 3760
+        width: 136
+        height: 239
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zeus_4
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 3760
+        width: 131
+        height: 240
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zeus_5
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 3760
+        width: 127
+        height: 240
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zeus_6
+      rect:
+        serializedVersion: 2
+        x: 1376
+        y: 3760
+        width: 121
+        height: 241
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zeus_7
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 3760
+        width: 133
+        height: 225
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zeus_8
+      rect:
+        serializedVersion: 2
+        x: 1824
+        y: 3760
+        width: 144
+        height: 217
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zeus_9
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 3431
+        width: 150
+        height: 208
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zeus_10
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 3431
+        width: 156
+        height: 206
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zeus_11
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 3431
+        width: 167
+        height: 206
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zeus_12
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 3431
+        width: 170
+        height: 204
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zeus_13
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 3431
+        width: 160
+        height: 204
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zeus_14
+      rect:
+        serializedVersion: 2
+        x: 1153
+        y: 3431
+        width: 151
+        height: 202
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zeus_15
+      rect:
+        serializedVersion: 2
+        x: 1377
+        y: 3431
+        width: 132
+        height: 204
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zeus_16
+      rect:
+        serializedVersion: 2
+        x: 1601
+        y: 3431
+        width: 128
+        height: 209
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zeus_17
+      rect:
+        serializedVersion: 2
+        x: 1825
+        y: 3431
+        width: 127
+        height: 208
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zeus_18
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 3096
+        width: 117
+        height: 211
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zeus_19
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 3096
+        width: 115
+        height: 213
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zeus_20
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 3096
+        width: 128
+        height: 216
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zeus_21
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 3096
+        width: 131
+        height: 217
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zeus_22
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 3096
+        width: 135
+        height: 215
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zeus_23
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 3096
+        width: 133
+        height: 217
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zeus_24
+      rect:
+        serializedVersion: 2
+        x: 1376
+        y: 3096
+        width: 129
+        height: 217
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zeus_25
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 3096
+        width: 119
+        height: 217
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zeus_26
+      rect:
+        serializedVersion: 2
+        x: 1824
+        y: 3096
+        width: 125
+        height: 219
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zeus_27
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 2765
+        width: 123
+        height: 216
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zeus_28
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 2765
+        width: 117
+        height: 218
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zeus_29
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 2765
+        width: 113
+        height: 227
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zeus_30
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 2765
+        width: 109
+        height: 238
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zeus_31
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 2765
+        width: 109
+        height: 238
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zeus_32
+      rect:
+        serializedVersion: 2
+        x: 1153
+        y: 2765
+        width: 108
+        height: 240
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zeus_33
+      rect:
+        serializedVersion: 2
+        x: 1377
+        y: 2765
+        width: 108
+        height: 243
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zeus_34
+      rect:
+        serializedVersion: 2
+        x: 1601
+        y: 2765
+        width: 108
+        height: 243
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zeus_35
+      rect:
+        serializedVersion: 2
+        x: 1825
+        y: 2765
+        width: 108
+        height: 244
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zeus_36
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 2431
+        width: 109
+        height: 249
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zeus_37
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 2431
+        width: 109
+        height: 248
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zeus_38
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 2431
+        width: 109
+        height: 250
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zeus_39
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 2431
+        width: 109
+        height: 250
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zeus_40
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 2431
+        width: 109
+        height: 252
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zeus_41
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 2431
+        width: 109
+        height: 260
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zeus_42
+      rect:
+        serializedVersion: 2
+        x: 1376
+        y: 2431
+        width: 113
+        height: 269
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zeus_43
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 2431
+        width: 124
+        height: 278
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zeus_44
+      rect:
+        serializedVersion: 2
+        x: 1824
+        y: 2431
+        width: 135
+        height: 289
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zeus_45
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 2099
+        width: 147
+        height: 295
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zeus_46
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 2099
+        width: 164
+        height: 304
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zeus_47
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 2099
+        width: 118
+        height: 303
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zeus_48
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 2099
+        width: 130
+        height: 310
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zeus_49
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 2099
+        width: 132
+        height: 310
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zeus_50
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 2099
+        width: 125
+        height: 254
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zeus_51
+      rect:
+        serializedVersion: 2
+        x: 1376
+        y: 2099
+        width: 129
+        height: 250
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zeus_52
+      rect:
+        serializedVersion: 2
+        x: 1606
+        y: 2099
+        width: 126
+        height: 246
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zeus_53
+      rect:
+        serializedVersion: 2
+        x: 1831
+        y: 2099
+        width: 126
+        height: 246
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zeus_54
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1765
+        width: 135
+        height: 246
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zeus_55
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1765
+        width: 137
+        height: 246
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zeus_56
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1765
+        width: 139
+        height: 244
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zeus_57
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 1765
+        width: 141
+        height: 244
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zeus_58
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 1765
+        width: 143
+        height: 242
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zeus_59
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1765
+        width: 145
+        height: 243
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

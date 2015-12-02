@@ -1,0 +1,496 @@
+fileFormatVersion: 2
+guid: 946bc1892d938764bb1d881163585591
+timeCreated: 1448290149
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: medusa_walk_0
+    21300002: medusa_walk_1
+    21300004: medusa_walk_2
+    21300006: medusa_walk_3
+    21300008: medusa_walk_4
+    21300010: medusa_walk_5
+    21300012: medusa_walk_6
+    21300014: medusa_walk_7
+    21300016: medusa_walk_8
+    21300018: medusa_walk_9
+    21300020: medusa_walk_10
+    21300022: medusa_walk_11
+    21300024: medusa_walk_12
+    21300026: medusa_walk_13
+    21300028: medusa_walk_14
+    21300030: medusa_walk_15
+    21300032: medusa_walk_16
+    21300034: medusa_walk_17
+    21300036: medusa_walk_18
+    21300038: medusa_walk_19
+    21300040: medusa_walk_20
+    21300042: medusa_walk_21
+    21300044: medusa_walk_22
+    21300046: medusa_walk_23
+    21300048: medusa_walk_24
+    21300050: medusa_walk_25
+    21300052: medusa_walk_26
+    21300054: medusa_walk_27
+    21300056: medusa_walk_28
+    21300058: medusa_walk_29
+    21300060: medusa_walk_30
+    21300062: medusa_walk_31
+    21300064: medusa_walk_32
+    21300066: medusa_walk_33
+    21300068: medusa_walk_34
+    21300070: medusa_walk_35
+    21300072: medusa_walk_36
+    21300074: medusa_walk_37
+    21300076: medusa_walk_38
+    21300078: medusa_walk_39
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: medusa_walk_0
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1875
+        width: 284
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: medusa_walk_1
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 1876
+        width: 281
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: medusa_walk_2
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 1876
+        width: 277
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: medusa_walk_3
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 1877
+        width: 273
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: medusa_walk_4
+      rect:
+        serializedVersion: 2
+        x: 1228
+        y: 1878
+        width: 269
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: medusa_walk_5
+      rect:
+        serializedVersion: 2
+        x: 1530
+        y: 1878
+        width: 267
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: medusa_walk_6
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 1703
+        width: 263
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: medusa_walk_7
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 1703
+        width: 260
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: medusa_walk_8
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 1704
+        width: 258
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: medusa_walk_9
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 1704
+        width: 255
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: medusa_walk_10
+      rect:
+        serializedVersion: 2
+        x: 1235
+        y: 1705
+        width: 253
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: medusa_walk_11
+      rect:
+        serializedVersion: 2
+        x: 1537
+        y: 1705
+        width: 252
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: medusa_walk_12
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 1530
+        width: 251
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: medusa_walk_13
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 1530
+        width: 251
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: medusa_walk_14
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 1530
+        width: 252
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: medusa_walk_15
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 1531
+        width: 252
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: medusa_walk_16
+      rect:
+        serializedVersion: 2
+        x: 1226
+        y: 1531
+        width: 255
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: medusa_walk_17
+      rect:
+        serializedVersion: 2
+        x: 1523
+        y: 1531
+        width: 259
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: medusa_walk_18
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1356
+        width: 261
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: medusa_walk_19
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 1356
+        width: 263
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: medusa_walk_20
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 1356
+        width: 267
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: medusa_walk_21
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 1356
+        width: 269
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: medusa_walk_22
+      rect:
+        serializedVersion: 2
+        x: 1209
+        y: 1355
+        width: 272
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: medusa_walk_23
+      rect:
+        serializedVersion: 2
+        x: 1508
+        y: 1355
+        width: 275
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: medusa_walk_24
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1180
+        width: 278
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: medusa_walk_25
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1180
+        width: 281
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: medusa_walk_26
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 1180
+        width: 281
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: medusa_walk_27
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 1180
+        width: 281
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: medusa_walk_28
+      rect:
+        serializedVersion: 2
+        x: 1206
+        y: 1180
+        width: 281
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: medusa_walk_29
+      rect:
+        serializedVersion: 2
+        x: 1507
+        y: 1179
+        width: 282
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: medusa_walk_30
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1004
+        width: 283
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: medusa_walk_31
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 1004
+        width: 283
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: medusa_walk_32
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 1003
+        width: 283
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: medusa_walk_33
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 1003
+        width: 282
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: medusa_walk_34
+      rect:
+        serializedVersion: 2
+        x: 1212
+        y: 1003
+        width: 283
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: medusa_walk_35
+      rect:
+        serializedVersion: 2
+        x: 1514
+        y: 1003
+        width: 283
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: medusa_walk_36
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 827
+        width: 283
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: medusa_walk_37
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 827
+        width: 283
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: medusa_walk_38
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 826
+        width: 283
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: medusa_walk_39
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 826
+        width: 283
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
