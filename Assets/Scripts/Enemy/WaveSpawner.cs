@@ -4,10 +4,10 @@ using System.Collections.Generic;
 
 public class WaveSpawner : MonoBehaviour
 {
-    [SerializeField] private GameObject _victory;
-    [SerializeField] private GameObject _pauseMenu;
     [SerializeField] private GameObject _medusa;
     [SerializeField] private GameObject _harpy;
+    [SerializeField] private GameObject _lastEnemy;
+    private LastEnemy _lastEnemyScript;
     private int _waveLevel = 0;
     private bool _waveActive = false;
     private List<GameObject> _enemies;
@@ -15,7 +15,6 @@ public class WaveSpawner : MonoBehaviour
     void Start()
     {
         _enemies = new List<GameObject>();
-
         for(int i = 0; i < 3; i++)
         {
             _enemies.Add(_medusa);
@@ -68,12 +67,8 @@ public class WaveSpawner : MonoBehaviour
                     break;
                 case 10:
                     StartCoroutine("SpawnWave");
+                    _lastEnemy.SetActive(true);
                     _waveActive = false;
-                    break;
-                case 11:
-                    _pauseMenu.SetActive(false);
-                    _victory.SetActive(true);
-                    Time.timeScale = 0;
                     break;
             }
         }
@@ -122,7 +117,7 @@ public class WaveSpawner : MonoBehaviour
                 break;
 
             case 10:
-                _enemies.Add(_harpy);
+                
                 break;
         }
 

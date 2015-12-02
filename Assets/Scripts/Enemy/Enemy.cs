@@ -15,12 +15,12 @@ public class Enemy : TempleCollision
         InvokeRepeating("AttackTemple", 0.9f, 1);
     }
 
-    void Start()
+    public virtual void Start()
     {
         _animator = GetComponent<Animator>();
     }
 	
-	void Update ()
+	public virtual void Update ()
     {
         if (health == 50)
         {
@@ -37,7 +37,7 @@ public class Enemy : TempleCollision
 
     private void AttackTemple()
     {
-        GameObject.Find("Temple").GetComponent<BaseTemple>().health -= 20f;
+        GameObject.Find("Temple").GetComponent<BaseTemple>().health -= 10f;
     }
 
     IEnumerator DestroyObject()

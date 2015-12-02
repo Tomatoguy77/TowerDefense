@@ -20,6 +20,7 @@ public class BaseTemple : MonoBehaviour
         {
             _defeat.SetActive(true);
             _healthBar.SetActive(false);
+            Time.timeScale = 0;
         }
 	}
 }

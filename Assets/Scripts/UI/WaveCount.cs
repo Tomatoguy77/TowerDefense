@@ -11,6 +11,11 @@ public class WaveCount : MonoBehaviour
     void Update()
     {
         SetWaveText();
+        
+        if (waveCounter > 10)
+        {
+            waveCounter = 10;
+        }
     }
 
     void SetWaveText()
